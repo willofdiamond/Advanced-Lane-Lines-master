@@ -25,10 +25,10 @@ The goals / steps of this project are the following:
 [image1]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/Unknown.png "Undistorted"
 [image2]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/undistortLane.png "Road undistorted"
 [image3]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/binaryImages.png "Binary Example"
-[image4]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/wrapmask.jpg "Warp Example"
-[image5]: .https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/color_fit_lines.png "Fit Visual"
+[image4]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/wrapmask.png "Warp Example"
+[image5]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/color_fit_lines.png "Fit Visual"
 [image6]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/example_output.png "Output"
-[video1]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/project_video1.mp4 "Video"
+[link to video]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/project_video1.mp4 "Video"
 
 
 ---
@@ -117,7 +117,7 @@ I implemented this step in function process_image_multiframe defined in cell 55 
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video] [video1]
+Here's a [link to video]
 
 ---
 
