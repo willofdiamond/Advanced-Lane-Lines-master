@@ -18,17 +18,17 @@ The goals / steps of this project are the following:
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 [//]: # (Code References)
-[lane detection code]:(https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/lane_detection.ipynb).
+[lane detection code]:https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/lane_detection.ipynb
 
 [//]: # (Image References)
 
-[image1]: (Advanced-Lane-Lines-master/Unknown.png) "Undistorted"
-[image2]: (https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/undistortLane.png) "Road undistorted"
-[image3]: (https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/binaryImages.png) "Binary Example"
-[image4]: (https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/wrapmask.jpg) "Warp Example"
+[image1]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/Unknown.png "Undistorted"
+[image2]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/undistortLane.png "Road undistorted"
+[image3]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/binaryImages.png "Binary Example"
+[image4]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/wrapmask.jpg "Warp Example"
 [image5]: .https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/color_fit_lines.png "Fit Visual"
-[image6]: (https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/example_output.png) "Output"
-[video1]: (https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/project_video1.mp4) "Video"
+[image6]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/example_output.png "Output"
+[video1]: https://github.com/willofdiamond/Advanced-Lane-Lines-master/blob/master/project_video1.mp4 "Video"
 
 
 ---
